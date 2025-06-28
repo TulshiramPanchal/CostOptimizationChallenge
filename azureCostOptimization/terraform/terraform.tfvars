@@ -1,0 +1,5 @@
+resource_group_name  = "Project-Prod-RG"
+cosmos_account_name  = "billingrecordscosmos"
+database_name        = "billing_records_db"
+container_name       = "billingrecords"
+storage_account_name = "billingrecordsa"
